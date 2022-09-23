@@ -1,0 +1,17 @@
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_DAL_EF.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_DAL_EF.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_DAL_EF.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_Interfaces.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\bin\Release\net6.0\BankConfirmations_Interfaces.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.csproj.CopyComplete
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\refint\BankConfirmations_DAL_EF.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\BankConfirmations_DAL_EF.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DAL_EF\obj\Release\net6.0\ref\BankConfirmations_DAL_EF.dll

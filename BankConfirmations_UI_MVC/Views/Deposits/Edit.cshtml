@@ -1,0 +1,49 @@
+﻿@model BankConfirmations_DTO.Deposit
+
+<h1>Edit Deposit</h1>
+<partial name="_Partial"/>
+
+<div class="row">
+    <div class="col-md-4">
+        <img style="display:inline-block"; width="216" height="417" src="https://www.addiko.rs/static/uploads/Addiko-Office-hrcak-Oskar-rgb-merge-e1650631123885.png"/>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Number" class="control-label"></label>
+                <input asp-for="Number" class="form-control" />
+                <span asp-validation-for="Number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Balance" class="control-label"></label>
+                <input asp-for="Balance" class="form-control" />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Interest" class="control-label"></label>
+                <input asp-for="Interest" class="form-control" />
+                <span asp-validation-for="Interest" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClientId" class="control-label"></label>
+                <input asp-for="ClientId" class="form-control"></>
+                <span asp-validation-for="ClientId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductDetailsId" class="control-label"></label>
+                <input asp-for="ProductDetailsId" class="form-control"></>
+                <span asp-validation-for="ProductDetailsId" class="text-danger"></span>
+            </div>
+            <div class="form-group-input">
+                <br />
+                <br />
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a style="color:white" class="btn btn-success" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Payment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Id>0</Id><Amount>0</Amount><CurrencyDate>0001-01-01T00:00:00</CurrencyDate><EntryDate>0001-01-01T00:00:00</EntryDate><PaymentDetailsId>0</PaymentDetailsId></Payment>

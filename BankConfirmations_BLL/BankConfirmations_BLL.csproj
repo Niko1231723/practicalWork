@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankConfirmations_DAL\BankConfirmations_DAL_ADO.csproj" />
+    <ProjectReference Include="..\BankConfirmations_DAL_EF\BankConfirmations_DAL_EF.csproj" />
+    <ProjectReference Include="..\BankConfirmations_DTO\BankConfirmations_DTO.csproj" />
+    <ProjectReference Include="..\BankConfirmations_Interfaces\BankConfirmations_Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

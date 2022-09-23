@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\bin\Release\net6.0\BankConfirmations_DTO.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\bin\Release\net6.0\BankConfirmations_DTO.runtimeconfig.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\bin\Release\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\bin\Release\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\refint\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\BankConfirmations_DTO.genruntimeconfig.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_DTO\obj\Release\net6.0\ref\BankConfirmations_DTO.dll

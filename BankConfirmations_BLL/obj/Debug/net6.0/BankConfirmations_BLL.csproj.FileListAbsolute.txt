@@ -1,0 +1,72 @@
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CopyComplete
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\refint\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\07. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\ref\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CopyComplete
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\refint\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\14. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\ref\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CopyComplete
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\refint\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\30. Jun 22\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\ref\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.deps.json
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL_ADO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL_EF.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_Interfaces.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL_ADO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DAL_EF.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_DTO.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\bin\Debug\net6.0\BankConfirmations_Interfaces.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.AssemblyInfo.cs
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.csproj.CopyComplete
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\refint\BankConfirmations_BLL.dll
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\BankConfirmations_BLL.pdb
+C:\Users\DELL\Documents\NEW\IT\Ognjen Radovic\C#\BankConfirmations\BankConfirmations_BLL\obj\Debug\net6.0\ref\BankConfirmations_BLL.dll

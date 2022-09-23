@@ -1,0 +1,83 @@
+﻿@model BankConfirmations_DTO.Account
+
+@*@model BankConfirmations_DTO.AccountModel*@
+
+<h1>Create new client</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <img style="display:inline-block"; width="216" height="417" src="https://www.addiko.rs/static/uploads/Addiko-Office-hrcak-Oskar-rgb-merge-e1650631123885.png"/>
+        <form asp-action="CreateNewClient">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Number" class="control-label"></label>
+                <input asp-for="Number" class="form-control" />
+                <span asp-validation-for="Number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Balance" class="control-label"></label>
+                <input asp-for="Balance" class="form-control" />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OpenDate" class="control-label"></label>
+                <input asp-for="OpenDate" class="form-control" />
+                <span asp-validation-for="OpenDate" class="text-danger"></span>
+            </div>            
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                <input asp-for="Type" class="form-control" />
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+@*            <div class="form-group">
+                <label asp-for="AccountM.Type" class="control-label"></label>
+                <select asp-for="AccountM.Type" asp-items="@Model.SelectType">
+                <option>select type</option>
+                </select>
+                <span asp-validation-for="AccountM.Type" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <label asp-for="Client.FirstName" class="control-label"></label>
+                <input asp-for="Client.FirstName" class ="form-control"></>
+                <span asp-validation-for="Client.FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.LastName" class="control-label"></label>
+                <input asp-for="Client.LastName" class ="form-control"></>
+                <span asp-validation-for="Client.LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.IdNumber" class="control-label"></label>
+                <input asp-for="Client.IdNumber" class ="form-control"></>
+                <span asp-validation-for="Client.IdNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.ClientDetails.City" class="control-label"></label>
+                <input asp-for="Client.ClientDetails.City" class ="form-control"></>
+                <span asp-validation-for="Client.ClientDetails.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.ClientDetails.Address" class="control-label"></label>
+                <input asp-for="Client.ClientDetails.Address" class ="form-control"></>
+                <span asp-validation-for="Client.ClientDetails.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Client.ClientDetails.Date" class="control-label"></label>
+                <input asp-for="Client.ClientDetails.Date" class ="form-control"></>
+                <span asp-validation-for="Client.ClientDetails.Date" class="text-danger"></span>
+            </div>
+            <br />
+            <br />
+            <div class="form-group-input">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-success">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gv9ttARsS34YKDsTSH+8oTLcL1O9CGVP7W6W3O0zvWk=",
+  "Source": "BankConfirmations_REST",
+  "BasePath": "_content/BankConfirmations_REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
